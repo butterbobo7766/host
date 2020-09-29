@@ -9,9 +9,9 @@
 <p>Here are some of the virtual host files to play Call of Duty Mobile via hosting.</p>
 <p>		 </p>
 <p>    </p>
-<p>You guys can feel free to using these with yours Cheating Game Play</p>
+<p>You guys can feel free to using these with yours Cheating Game Play.</p>
 <p>		 </p>
-<p>Hopefully everyone Have Fun & Enjoy that</p>
+<p>Hopefully everyone Have Fun & Enjoy that!</p>
 <p>		 </p>
 <p>The links :</p>
 <p>		 </p>
