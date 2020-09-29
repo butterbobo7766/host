@@ -28,7 +28,7 @@
 <p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/hostvip.txt</p>
 <p>		 </p>
 <p>		 </p>
-<p>Created by ～ Butter℃ⓞῳ</p>
+<p>Created by ～ 𝓑𝓾𝓽𝓽𝓮𝓻℃ⓞῳ</p>
 
 </body>
 </html>
