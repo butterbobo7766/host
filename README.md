@@ -8,13 +8,26 @@
 <p>		 </p>
 <p>Here are some of the virtual host files to play</p>
 <p>		 </p>
-<p>Call of Duty Mobile via hosting, </p>
+<p>Call of Duty Mobile via hosting.</p>
 <p>		 </p>
 <p>you guys feel free to using these with yours Cheating Game Play</p>
 <p>		 </p>
 <p>Hopefully everyone Have Fun & Enjoy that</p>
 <p>		 </p>
-<p>	by ～ Butter℃ⓞῳ   </p>
+<p>1. https://raw.githubusercontent.com/butterbobo7766/host/master/BMT_COD_HOST.txt</p>
+<p>		 </p>
+<p>2. https://raw.githubusercontent.com/butterbobo7766/host/master/COD HOST.txt</p>
+<p>		 </p>
+<p>3. https://raw.githubusercontent.com/butterbobo7766/host/master/CODHOST.txt</p>
+<p>		 </p>
+<p>4. https://raw.githubusercontent.com/butterbobo7766/host/master/CODM_butter_host.txt</p>
+<p>		 </p>
+<p>5. https://raw.githubusercontent.com/butterbobo7766/host/master/CODM_Host_S10.txt</p>
+<p>		 </p>
+<p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/hostvip.txt</p>
+<p>		 </p>
+<p>		 </p>
+<p>Created by ～ Butter℃ⓞῳ</p>
 
 </body>
 </html>
