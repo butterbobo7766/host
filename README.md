@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title> VIRTUAL HOST FILES </title>
 </head>
 <body>
 <h1> VIRTUAL HOST FILES </h1>
