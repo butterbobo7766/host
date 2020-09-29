@@ -17,7 +17,7 @@
 <p>		 </p>
 <p>1. https://raw.githubusercontent.com/butterbobo7766/host/master/BMT_COD_HOST.txt</p>
 <p>		 </p>
-<p>2. https://raw.githubusercontent.com/butterbobo7766/host/master/COD HOST.txt</p>
+<p>2. https://raw.githubusercontent.com/butterbobo7766/host/master/COD_HOST.txt</p>
 <p>		 </p>
 <p>3. https://raw.githubusercontent.com/butterbobo7766/host/master/CODHOST.txt</p>
 <p>		 </p>
