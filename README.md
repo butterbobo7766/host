@@ -6,13 +6,14 @@
 <body>
 <h1> VIRTUAL HOST FILES </h1>
 <p>		 </p>
-<p>Here are some of the virtual host files to play</p>
+<p>Here are some of the virtual host files to play Call of Duty Mobile via hosting.</p>
 <p>		 </p>
-<p>Call of Duty Mobile via hosting.</p>
-<p>		 </p>
-<p>you guys feel free to using these with yours Cheating Game Play</p>
+<p>    </p>
+<p>You guys can feel free to using these with yours Cheating Game Play</p>
 <p>		 </p>
 <p>Hopefully everyone Have Fun & Enjoy that</p>
+<p>		 </p>
+<p>The links :</p>
 <p>		 </p>
 <p>1. https://raw.githubusercontent.com/butterbobo7766/host/master/BMT_COD_HOST.txt</p>
 <p>		 </p>
