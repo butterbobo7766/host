@@ -28,6 +28,7 @@ ff02::3 ip6-allhosts
 0.0.0.1 android.bugly.qq.com
 0.0.0.1 android.bugly.qcloud.com
 0.0.0.1 ios.bugly.qcloud.com
+0.0.0.1 ios.bugly.qq.com
 0.0.0.1 down.qq.com
 0.0.0.1 banpickmap.codm.garena.co.id
 0.0.0.1 hao.qq.com
