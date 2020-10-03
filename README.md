@@ -13,6 +13,10 @@
 <p>		 </p>
 <p>Hopefully everyone Have Fun & Enjoy that!</p>
 <p>		 </p>
+<p>Only copy the link which you want into the VPN Host App to use can working.</p>
+<p>              </p>
+<p>NO NEED DOWNLOAD these FILES with using</p>
+<p>              </p>
 <p>The links :</p>
 <p>		 </p>
 <p>1. https://raw.githubusercontent.com/butterbobo7766/host/master/BMT_COD_HOST.txt</p>
@@ -26,6 +30,9 @@
 <p>5. https://raw.githubusercontent.com/butterbobo7766/host/master/CODM_Host_S10.txt</p>
 <p>		 </p>
 <p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/hostvip.txt</p>
+<p>              </p>
+<p>7. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTERCOW_HOST.txt</p>
+<p>		 </p>
 <p>		 </p>
 <p>		 </p>
 <p>Created by ～ 𝓑𝓾𝓽𝓽𝓮𝓻℃ⓞῳ</p>
