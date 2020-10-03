@@ -31,7 +31,7 @@
 <p>		 </p>
 <p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/hostvip.txt</p>
 <p>              </p>
-<p>7. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTERCOW_HOST.txt</p>
+<p>7. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTER_COW_HOST.txt</p>
 <p>		 </p>
 <p>		 </p>
 <p>		 </p>
