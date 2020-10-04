@@ -1,17 +1,25 @@
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
-0.0.0.0 local
+127.0.0.1 local
+0.0.0.1 localhost
+127.1.1.1 loopback
+0.0.0.1 loopback
+255.255.255.255 localhost
+255.255.255.255 loopback
 255.255.255.255 broadcasthost
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
+0:0:0:0:1
+ip6-localhost
+ip6-localhost
 fe80::1%lo0 localhost
-ff00::0 ip6-localnet
+ff00::0 ip6-loccalnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0 
+0.0.0.0 0.0.0.0
 
 0.0.0.1 .qq.com
 0.0.0.1 .dynamic.tfn.net.tw
@@ -27,6 +35,7 @@ ff02::3 ip6-allhosts
 0.0.0.1 oth.eve.mdt.qq.com
 0.0.0.1 android.bugly.qq.com
 0.0.0.1 android.bugly.qcloud.com
+0.0.0.1 ios.bugly.qq.com
 0.0.0.1 ios.bugly.qcloud.com
 0.0.0.1 down.qq.com
 0.0.0.1 banpickmap.codm.garena.co.id
@@ -38,12 +47,35 @@ ff02::3 ip6-allhosts
 0.0.0.1 uat.callofduty.com
 0.0.0.1 community.callofduty.com
 0.0.0.1 cloudctrl.codm.activision.com
+0.0.0.1 cloudctrl.codm.garena.com
 0.0.0.1 codm.activision.com
-0.0.0.1 codm.garena.com
 0.0.0.1 speed.codm.garena.com
 0.0.0.1 speed.codm.garena.tw
 0.0.0.1 codm.garena.tw
 0.0.0.1 codm.garena.co.id
+0.0.0.1 codm.garena.com
+0.0.0.1 codm.garena.tw
+0.0.0.1 intl.cloud.tencent.com
+0.0.0.1 intl.mtp.tencent.com
+0.0.0.1 mtp@tencent.com
+0.0.0.1 activision.com
+0.0.0.1 garena.tw
+0.0.0.1 garena.com
+0.0.0.1 garenanow.com
+0.0.0.1 qq.com
+0.0.0.1 proximabeta.com
+0.0.0.1 tencent.com
+0.0.0.1 qcloud.com
+0.0.0.1 tencent.com
+0.0.0.1 helpshift.com
+0.0.0.1 scgt.reverse.com
+0.0.0.1 app.adjust.com
+0.0.0.1 weiyun.com
+0.0.0.1 actencent.com
+0.0.0.1 gstatic.com
+0.0.0.1 lobbysg1.codm.garena.com
+0.0.0.1 lobbysg1.codm.garena.tw
+0.0.0.1 t.appsflyer.com
 
 162.210.102.233 codindo.com
 
