@@ -27,9 +27,9 @@
 <p>		 </p>
 <p>4. https://raw.githubusercontent.com/butterbobo7766/host/master/COD_HOST.txt</p>
 <p>		 </p>
-<p></p>
+<p>5. https://raw.githubusercontent.com/butterbobo7766/host/master/COD</p>
 <p>		 </p>
-<p></p>
+<p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTER_HOST</p>
 <p>              </p>
 <p></p>
 <p>		 </p>
