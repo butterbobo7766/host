@@ -19,17 +19,17 @@
 <p>              </p>
 <p>The links :</p>
 <p>		 </p>
-<p>1. https://raw.githubusercontent.com/butterbobo7766/host/master/BMT_COD_HOST.txt</p>
+<p></p>
 <p>		 </p>
-<p>2. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTER_COW_HOST</p>
+<p></p>
 <p>		 </p>
-<p>3. https://raw.githubusercontent.com/butterbobo7766/host/master/COD_GLOBAL_HOST.txt</p>
+<p></p>
 <p>		 </p>
-<p>4. https://raw.githubusercontent.com/butterbobo7766/host/master/COD_HOST.txt</p>
+<p></p>
 <p>		 </p>
-<p>5. https://raw.githubusercontent.com/butterbobo7766/host/master/COD</p>
+<p></p>
 <p>		 </p>
-<p>6. https://raw.githubusercontent.com/butterbobo7766/host/master/BUTTER_HOST</p>
+<p></p>
 <p>              </p>
 <p></p>
 <p>		 </p>
