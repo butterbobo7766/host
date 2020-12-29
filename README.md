@@ -7537,29 +7537,22 @@ ff02::3 ip6-allhosts
 0.0.0.1 121.51.142.185
 0.0.0.1 118.180.31.221
 0.0.0.1 112.19.7.64
-
 #DnsActivision
 0.0.0.1 23.72.193.231
 0.0.0.1 184.24.182.185
 0.0.0.1 104.121.237.35
-
 #DnsGarena
 0.0.0.1 122.11.131.7
-
 #DnsQQ
 0.0.0.1 125.39.52.26
 0.0.0.1 58.247.214.47
 0.0.0.1 58.250.137.36
-
 #DnsGarenaNow
 127.0.0.6 199.59.242.154
-
 #DnsActivision
 127.0.0.5 23.199.65.184
-
 #DnsAppsflyer
 127.0.0.4 35.231.151.109
-
 #DnsProximabeta
 127.0.0.3 79.124.78.105
 127.0.0.3 79.124.78.101
@@ -7648,10 +7641,8 @@ ff02::3 ip6-allhosts
 0.0.0.1 sg.tdatamaster.com 
 0.0.0.1 lobbysg1.codm.garena.com
 0.0.0.1 t.appsflyer.com
-
 ###Domain Block Login Garena : 100082.connect.garena.com###
 0.0.0.1 csoversea.mbgame.gamesafe.qq.com
-
 ###Domain Block Update + Block Login : dlmobilegarena-a.akamaihd.net###
 0.0.0.1 vmp.qq.com
 0.0.0.1 dlied1.qq.com
@@ -7659,14 +7650,12 @@ ff02::3 ip6-allhosts
 0.0.0.1 android.bugly.qq.com
 0.0.0.1 events.appsflyer.com
 0.0.0.1 ios.bugly.qq.com
-
 ###Domain Block Login Garena : connect.garenanow.com###
 0.0.0.1 sg.tdm.qq.com
 0.0.0.1 receiver.sg.tdm.qq.com
 0.0.0.1 speed.codm.garena.com
 0.0.0.1 cloud2.gsdk.proximabeta.com
 0.0.0.1 qos.hk.gcloudcs.com
-
 ###Domain Block Login Guest : sg.itopsdk.com####
 0.0.0.1 cdn.wetest.qq.com
 0.0.0.1 speed.codm.garena.tw
